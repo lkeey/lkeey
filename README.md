@@ -45,4 +45,4 @@
     <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lkeey/lkeey/main/android-studio.png" alt="git" width="40" height="40"/> </a> 
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lkeey&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lkeey&theme=buefy)
