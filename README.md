@@ -18,7 +18,7 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lkeey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages:
-<p align="left"> 
+<p align="center"> 
 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lkeey/lkeey/main/java.png"        alt="java" width="40" height="40"/> 
   </a> 
@@ -41,8 +41,7 @@
   
 ### Tools:
 <p align="center"> 
-  
-        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lkeey/lkeey/f49fd709aa33e572f99701a756db08c7bc60b935/flat_linux.svg" alt="linux" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lkeey/lkeey/f49fd709aa33e572f99701a756db08c7bc60b935/flat_linux.svg" alt="linux" width="40" height="40"/> </a> 
           
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lkeey/lkeey/f49fd709aa33e572f99701a756db08c7bc60b935/git.svg" alt="git" width="40" height="40"/> </a> 
           
@@ -57,9 +56,8 @@
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lkeey/lkeey/f49fd709aa33e572f99701a756db08c7bc60b935/figma.svg" alt="git" width="40" height="40"/> </a> 
           
         <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lkeey/lkeey/main/android-studio.png" alt="git" width="40" height="40"/> </a> 
-          
-          
-    </p>
+  
+</p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lkeey&theme=solarized_dark)
  
