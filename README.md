@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **l.key14@mail.com**
 
-- 🌍 I speak **Russian** (native), **[English (B1)](https://www.efset.org/cert/FVJcna)**
+- 🌍 I speak **Russian** (native), **English [(B2)](https://www.efset.org/cert/FVJcna)**
 
 ### Connect with me:
 <p align="center">
