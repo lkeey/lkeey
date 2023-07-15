@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **l.key14@mail.com**
 
