@@ -25,9 +25,13 @@
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/lkeey/lkeey/blob/main/CSS3.svg" alt="css3"        width="40" height="40"/> 
   </a> 
+  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lkeey/lkeey/main/js.png" alt="css3"        width="40" height="40"/> 
+  </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img         src="https://raw.githubusercontent.com/lkeey/lkeey/f49fd709aa33e572f99701a756db08c7bc60b935/HTML5.svg" alt="html5" width="40" height="40"/>
   </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lkeey/lkeey/64bc5643727188e041b49d4da10923579aa7eeb8/python.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lkeey/lkeey/main/kotlin.png" alt="css3"        width="40" height="40"/> 
   </a> 
 </p>
 
