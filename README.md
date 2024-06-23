@@ -6,24 +6,26 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 📫 How to reach me **l.key14@mail.com**
+- 📫 How to reach me **l.key14@mail.ru**
 
-- 🌍 I speak **Russian** (native), **English [(B2)](https://www.efset.org/cert/FVJcna)**
+- 🌍 I speak **Russian** (native), **English [(B2)](https://www.efset.org/cert/FVJcna)** 
+
+- 📚 More about me in **[(CV)](https://github.com/lkeey/lkeey/blob/main/CV.pdf)**
 
 ### Connect with me:
 <p align="center">
-  <a href="https://t.me/l_keey" target="blank"><img align="center"        src="https://raw.githubusercontent.com/lkeey/lkeey/f49fd709aa33e572f99701a756db08c7bc60b935/Telegram.svg" alt="aleksey"  height="40" width="40" />
+  <a href="https://t.me/lkeeeey" target="blank"><img align="center"        src="https://raw.githubusercontent.com/lkeey/lkeey/f49fd709aa33e572f99701a756db08c7bc60b935/Telegram.svg" alt="aleksey"  height="40" width="40" />
   </a>
   <a href="https://vk.com/l_keey" target="blank"><img align="center" src="https://raw.githubusercontent.com/lkeey/lkeey/1c01db83298c6bc9e51f180eeb7a1ac5f438f00a/vk.svg" alt="lkeey" height="40" width="40" /></a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lkeey)](https://git.io/streak-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lkeey)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages:
 <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lkeey/lkeey/main/java.png"        alt="java" width="40" height="40"/> 
   </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/lkeey/lkeey/blob/main/CSS3.svg" alt="css3"        width="40" height="40"/> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lkeey/lkeey/26b26e1f27124719627cb01c9f540a42fed2d950/CSS3.svg" alt="css3"        width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lkeey/lkeey/main/js.png" alt="css3"        width="40" height="40"/> 
   </a> 
@@ -35,7 +37,7 @@
   </a> 
 </p>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lkeey)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lkeey)](https://git.io/streak-stats)
 
 ### Tools:
 <p align="center"> 
